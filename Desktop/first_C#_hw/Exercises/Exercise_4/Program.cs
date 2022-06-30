@@ -2,16 +2,12 @@
 int a = Convert.ToInt32(Console.ReadLine());
 Console.Write("Enter the second number: ");
 int b = Convert.ToInt32(Console.ReadLine());
-int max = b;
-int min = a;
-if (a>b)
-{
-    max = a;
-    min = b;
-} 
-    
+Console.Write("Enter the third number: ");
+int c = Convert.ToInt32(Console.ReadLine());
+
+int max = a;
+if (b>max) max = b;
+if (c>max) max = c;
+
 Console.Write("max = ");
 Console.WriteLine(max);
-Console.Write("min = ");
-Console.Write(min);
-    
