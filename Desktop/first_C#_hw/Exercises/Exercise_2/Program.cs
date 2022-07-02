@@ -4,6 +4,7 @@ Console.Write("Enter the second number: ");
 int b = Convert.ToInt32(Console.ReadLine());
 int max = b;
 int min = a;
+
 if (a>b)
 {
     max = a;
