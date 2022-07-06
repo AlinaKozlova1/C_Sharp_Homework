@@ -1,0 +1,15 @@
+C:\Users\Алина\Desktop\second_C#_hw\SecondHWExercises\Exercise_15\obj\Debug\net6.0\Exercise_15.csproj.AssemblyReference.cache
+C:\Users\Алина\Desktop\second_C#_hw\SecondHWExercises\Exercise_15\obj\Debug\net6.0\Exercise_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алина\Desktop\second_C#_hw\SecondHWExercises\Exercise_15\obj\Debug\net6.0\Exercise_15.AssemblyInfoInputs.cache
+C:\Users\Алина\Desktop\second_C#_hw\SecondHWExercises\Exercise_15\obj\Debug\net6.0\Exercise_15.AssemblyInfo.cs
+C:\Users\Алина\Desktop\second_C#_hw\SecondHWExercises\Exercise_15\obj\Debug\net6.0\Exercise_15.csproj.CoreCompileInputs.cache
+C:\Users\Алина\Desktop\second_C#_hw\SecondHWExercises\Exercise_15\bin\Debug\net6.0\Exercise_15.exe
+C:\Users\Алина\Desktop\second_C#_hw\SecondHWExercises\Exercise_15\bin\Debug\net6.0\Exercise_15.deps.json
+C:\Users\Алина\Desktop\second_C#_hw\SecondHWExercises\Exercise_15\bin\Debug\net6.0\Exercise_15.runtimeconfig.json
+C:\Users\Алина\Desktop\second_C#_hw\SecondHWExercises\Exercise_15\bin\Debug\net6.0\Exercise_15.dll
+C:\Users\Алина\Desktop\second_C#_hw\SecondHWExercises\Exercise_15\bin\Debug\net6.0\Exercise_15.pdb
+C:\Users\Алина\Desktop\second_C#_hw\SecondHWExercises\Exercise_15\obj\Debug\net6.0\Exercise_15.dll
+C:\Users\Алина\Desktop\second_C#_hw\SecondHWExercises\Exercise_15\obj\Debug\net6.0\refint\Exercise_15.dll
+C:\Users\Алина\Desktop\second_C#_hw\SecondHWExercises\Exercise_15\obj\Debug\net6.0\Exercise_15.pdb
+C:\Users\Алина\Desktop\second_C#_hw\SecondHWExercises\Exercise_15\obj\Debug\net6.0\Exercise_15.genruntimeconfig.cache
+C:\Users\Алина\Desktop\second_C#_hw\SecondHWExercises\Exercise_15\obj\Debug\net6.0\ref\Exercise_15.dll
