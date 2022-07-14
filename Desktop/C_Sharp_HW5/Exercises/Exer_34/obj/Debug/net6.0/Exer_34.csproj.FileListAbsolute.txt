@@ -1,0 +1,15 @@
+C:\Users\Алина\Desktop\C_Sharp_HW5\Exercises\Exer_34\bin\Debug\net6.0\Exer_34.exe
+C:\Users\Алина\Desktop\C_Sharp_HW5\Exercises\Exer_34\bin\Debug\net6.0\Exer_34.deps.json
+C:\Users\Алина\Desktop\C_Sharp_HW5\Exercises\Exer_34\bin\Debug\net6.0\Exer_34.runtimeconfig.json
+C:\Users\Алина\Desktop\C_Sharp_HW5\Exercises\Exer_34\bin\Debug\net6.0\Exer_34.dll
+C:\Users\Алина\Desktop\C_Sharp_HW5\Exercises\Exer_34\bin\Debug\net6.0\Exer_34.pdb
+C:\Users\Алина\Desktop\C_Sharp_HW5\Exercises\Exer_34\obj\Debug\net6.0\Exer_34.csproj.AssemblyReference.cache
+C:\Users\Алина\Desktop\C_Sharp_HW5\Exercises\Exer_34\obj\Debug\net6.0\Exer_34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алина\Desktop\C_Sharp_HW5\Exercises\Exer_34\obj\Debug\net6.0\Exer_34.AssemblyInfoInputs.cache
+C:\Users\Алина\Desktop\C_Sharp_HW5\Exercises\Exer_34\obj\Debug\net6.0\Exer_34.AssemblyInfo.cs
+C:\Users\Алина\Desktop\C_Sharp_HW5\Exercises\Exer_34\obj\Debug\net6.0\Exer_34.csproj.CoreCompileInputs.cache
+C:\Users\Алина\Desktop\C_Sharp_HW5\Exercises\Exer_34\obj\Debug\net6.0\Exer_34.dll
+C:\Users\Алина\Desktop\C_Sharp_HW5\Exercises\Exer_34\obj\Debug\net6.0\refint\Exer_34.dll
+C:\Users\Алина\Desktop\C_Sharp_HW5\Exercises\Exer_34\obj\Debug\net6.0\Exer_34.pdb
+C:\Users\Алина\Desktop\C_Sharp_HW5\Exercises\Exer_34\obj\Debug\net6.0\Exer_34.genruntimeconfig.cache
+C:\Users\Алина\Desktop\C_Sharp_HW5\Exercises\Exer_34\obj\Debug\net6.0\ref\Exer_34.dll
